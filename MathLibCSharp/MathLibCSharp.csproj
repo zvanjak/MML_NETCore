@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>MML</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>C# Math Library</Title>
+    <Authors>Zvonimir Vanjak</Authors>
+    <PackageTags>math;math-lib</PackageTags>
+  </PropertyGroup>
+
+</Project>
